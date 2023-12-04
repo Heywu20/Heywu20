@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heywu20&label=Profile%20views&color=0e75b6&style=flat" alt="heywu20" /> </p>
 
-- 🔭 I’m currently working on my [webpage](heywu20.xyz)
+- 🔭 I’m currently working on my [webpage](https://heywu20.xyz)
 
 - 🌱 I’m currently learning **WEB, Docker, Rust**
 
