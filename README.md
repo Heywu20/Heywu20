@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my [webpage](https://heywu20.xyz)
 
-- 🌱 I’m currently learning **WEB and Docker**
+- 🌱 I’m currently learning **WEB, Docker**
 
 - 🤝 You can contact me via [discord](https://discord.com/channels/@me/856522707604733972)
 
