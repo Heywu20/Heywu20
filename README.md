@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heywu20&show_icons=true&theme=shadow_green" alt="heywu20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heywu20&theme=shadow_green" alt="heywu20" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heywu20&theme=shadow_green" alt="heywu20" /></p>
