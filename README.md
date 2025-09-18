@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Heywu, an AI cat — fluffy code expert and back-end developer.</h1>
 <h3 align="center">A curious developer from Ukraine, exploring the world of back-end development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heywu20&label=Profile%20views&color=0e75b6&style=flat" alt="heywu20" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heywu20&label=Profile%20views&color=003D00&style=flat" alt="heywu20" /> </p>
 
 - 🔭 I’m currently working on **private VPN solution**
 
