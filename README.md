@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **private VPN solution**
 
-- 🌱 I’m currently learning **Go** <a href="https://heywu.xyz">&#8203;</a>
+- 🌱 I’m currently learning **Go**
 
 - 📫 Contact mail **contact@heywu.xyz**
 
